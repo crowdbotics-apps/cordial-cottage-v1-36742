@@ -10,8 +10,9 @@ export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   },
+
   "@modules/login": {
-    LOGO_URL: "",
+    LOGO_URL: "https://picsum.photos/200/300",
     BACKGROUND_URL:
       "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/halfbg.png",
     HOME_SCREEN_NAME: "Home Screen",
